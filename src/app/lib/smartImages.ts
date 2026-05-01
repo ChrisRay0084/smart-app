@@ -9,6 +9,6 @@ export const smartImages: Record<string, string> = {
   "7": "/images/stressmana.jpg",
   "8": "/images/focusprod.jpg",
   "9": "/images/goalset.jpg",
-  "10": "/images/strongmental.JPG",
-  "11": "/images/",
+  "10": "/images/strongmental.jpg",
+  "11": "/images/strongmental.jpg",
 };
