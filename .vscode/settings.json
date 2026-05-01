@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  "typescript.preferences.importModuleSpecifier": "absolute",
+  "javascript.preferences.importModuleSpecifier": "absolute",
+
+  "tailwindCSS.experimental.classRegex": [
+    "clsx\\(([^)]*)\\)",
+    "className\\s*:\\s*\"([^\"]*)\""
+  ],
+
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2
+}
