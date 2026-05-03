@@ -47,9 +47,9 @@ export default function Home() {
     mode: modeMap[letter],
     title:
       letter === "S"
-        ? "Sleep & Recovery"
+        ? "Sleep"
         : letter === "M"
-        ? "Movement & Tracking"
+        ? "Movement"
         : letter === "A"
         ? "Awareness"
         : letter === "R"
